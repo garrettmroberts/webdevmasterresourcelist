@@ -4,6 +4,7 @@
 1. https://guides.github.com/features/mastering-markdown/ - Markdown Explanation
 2. https://placeholder.com/ - Useful for placeholder images of any size
 3. https://lipsum.com/ - Generates Lorem Ipsum textof any length
+4. https://caniuse.com/ - Informs which browsers support different features
 
 ## Git
 1. https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging - Git Branching + Merging
@@ -18,5 +19,6 @@
 2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - Quick & Easy Flexbox explanation
 3. https://meyerweb.com/eric/tools/css/reset/ - CSS reset file - copy and paste
 ### Demo Videos
-5. https://www.youtube.com/watch?v=sHfJn0jqBro - Positioning Demo
-6. https://www.youtube.com/watch?v=0lpxKw6E90Y - Floats demo
+1. https://www.youtube.com/watch?v=sHfJn0jqBro - Positioning Demo
+2. https://www.youtube.com/watch?v=yWXgnQaWSW0 - Positioning Demo
+3. https://www.youtube.com/watch?v=0lpxKw6E90Y - Floats demo

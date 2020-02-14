@@ -1,16 +1,21 @@
 # Resources Master List
 
 ## General
+1. https://placeholder.com/ - Useful for placeholder images of any size
+2. https://lipsum.com/ - Generates Lorem Ipsum textof any length
+3. https://caniuse.com/ - Informs which browsers support different features
+4. https://stackoverflow.com/ - troubleshooting forum
+5. https://w3schools.com/ - explains practically anything
+6. http://cockos.com/licecap/ - Simple way to share screenshot gifs
+7. https://www.developer.mozilla.org/en/US/
+8. https://www.designshack.net/
+9. https://www.smashingmagazine.com/
+
+## Markdown
 1. https://guides.github.com/features/mastering-markdown/ - Markdown Explanation
-2. https://placeholder.com/ - Useful for placeholder images of any size
-3. https://lipsum.com/ - Generates Lorem Ipsum textof any length
-4. https://caniuse.com/ - Informs which browsers support different features
-5. https://stackoverflow.com/ - troubleshooting forum
-6. https://w3schools.com/ - explains practically anything
-7. http://cockos.com/licecap/ - Simple way to share screenshot gifs
-8. https://www.developer.mozilla.org/en/US/
-9. https://www.designshack.net/
-10. https://www.smashingmagazine.com/
+2. https://www.makeareadme.com/ - simple Markdown example
+3. https://guides.github.com/features/wikis/ - Typical Readme wiki builds
+4. https://www.markdownguide.org/cheat-sheet/ - Markdown syntax cheat sheet
 
 ## Git
 1. https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging - Git Branching + Merging

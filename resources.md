@@ -9,6 +9,10 @@
 * https://www.designshack.net/
 * https://www.smashingmagazine.com/
 
+## VSCode
+* https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf - VSCode keyboard shortcuts for windows
+* https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf - VSCode keyboard shortcuts for Mac
+
 ## Lorem Ipsum + Placeholders
 * https://lipsum.com/ - Generates Lorem Ipsum text of any length
 * https://picsum.photos/ - Lorem Ipsum, but for images
@@ -40,6 +44,7 @@
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes - pseudoclasses explanation
 * https://css-tricks.com/reading-position-indicator/ - Reading Position indicator tutorial
 * https://www.cssnewbie.com/
+* https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag - All about the viewport
 ### Demo Videos
 * https://www.youtube.com/watch?v=sHfJn0jqBro - Positioning Demo
 * https://www.youtube.com/watch?v=yWXgnQaWSW0 - Positioning Demo

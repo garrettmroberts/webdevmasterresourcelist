@@ -72,3 +72,9 @@
 ## Javascript
 
 * [Eloquent Javascript](https://eloquentjavascript.net/) - Eloquent Javascript ebook (free)
+* [Modern Javascript Tutorial](https://javascript.info/)
+
+## APIs
+
+* [Web API list](https://developer.mozilla.org/en-US/docs/Web/API) - MDN list
+* [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) - list of DOM interfaces)

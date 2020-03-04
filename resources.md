@@ -37,6 +37,7 @@
 ## Git
 
 * [Git Branching and Merging Basic Principles](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) - Git Branching + Merging
+* [Git Tips](https://github.com/git-tips/tips)
 
 ## HTML
 
@@ -56,12 +57,13 @@
 * [CSSNewbie](https://www.cssnewbie.com/)
 * [Viwport Meta Tag Explanation](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag) - All about the viewport
 * [material-ui.com](https://material-ui.com/) - React Components + Themes
+* [CSS Advaced Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
 
 ### Demo Videos
 
-* [Youtube Positioning Demo](https://www.youtube.com/watch?v=sHfJn0jqBro) - Positioning Demo
-* [Another Positioning Demo](https://www.youtube.com/watch?v=yWXgnQaWSW0) - Positioning Demo
-* [Floats Demo](https://www.youtube.com/watch?v=0lpxKw6E90Y) - Floats demo
+* [Youtube Positioning Demo](https://www.youtube.com/watch?v=sHfJn0jqBro)
+* [Another Positioning Demo](https://www.youtube.com/watch?v=yWXgnQaWSW0)
+* [Floats Demo](https://www.youtube.com/watch?v=0lpxKw6E90Y)
 
 ### Bootstrap
 
@@ -73,8 +75,15 @@
 
 * [Eloquent Javascript](https://eloquentjavascript.net/) - Eloquent Javascript ebook (free)
 * [Modern Javascript Tutorial](https://javascript.info/)
+* [Javascript Scope Review](https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/)
+* [MDN 'This' Keyword explanation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+
+## jQuery
+
+* [jQuery API Documentation](https://api.jquery.com/)
 
 ## APIs
 
 * [Web API list](https://developer.mozilla.org/en-US/docs/Web/API) - MDN list
 * [MDN Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) - list of DOM interfaces)
+* [Public APIs lidt](https://github.com/public-apis/public-apis)
